@@ -1,0 +1,46 @@
+<!-- <div class="references-section">
+                    <h3 class="main-title">References</h3>
+                    <div class="referee">
+                        <h6 class="sub-title">Michael Bowen</h6>
+                        <p class="sub-para">Product Manager</p>
+                        <ul>
+                            <li>
+                                <i class="fa fa-phone"></i>
+                                07661892982
+                            </li>
+                            <li>
+                                <i class="fa fa-fax"></i>
+                                loremipsum@gmail.com
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="referee">
+                        <h6 class="sub-title">Joseph Kumar</h6>
+                        <p class="sub-para">Senior Developer</p>
+                        <ul>
+                            <li>
+                                <i class="fa fa-phone"></i>
+                                07661892982
+                            </li>
+                            <li>
+                                <i class="fa fa-fax"></i>
+                                loremipsum@gmail.com
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="referee">
+                        <h6 class="sub-title">Rick Ross</h6>
+                        <p class="sub-para">Product Manager</p>
+                        <ul>
+                            <li>
+                                <i class="fa fa-phone"></i>
+                                07661892982
+                            </li>
+                            <li>
+                                <i class="fa fa-fax"></i>
+                                loremipsum@gmail.com
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>-->
