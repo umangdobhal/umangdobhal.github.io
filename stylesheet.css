@@ -231,6 +231,27 @@ body{
     transform: translateX(-50%);
     left: 0;
 }
+.footer{
+    text-align: center;
+    background: #00496b;
+    font-size: 0.5cm;
+}
+a {
+    background-color: #00496b;
+    background-size: contain;
+    color: white;   
+    position: relative;    
+  }
+  
+  a:hover {
+    background-color: #a33dd9;
+    cursor: pointer;
+  }
+  
+  a:active {
+    box-shadow: none;
+    top: 5px;
+  }
 
 /*Media Querries*/
 @media screen and (max-width:823px){
