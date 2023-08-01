@@ -324,7 +324,7 @@ img {
     width: 90%; }
   .hero__social {
     position: absolute;
-    bottom: 6rem; }
+    bottom: -2rem; }
 
 .portfolio {
   display: flex;
