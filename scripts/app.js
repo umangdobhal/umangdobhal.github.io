@@ -61,3 +61,4 @@ splide.mount();
 ScrollReveal().reveal('.about', { delay: 300 });
 ScrollReveal().reveal('.testimonials', { delay: 300 });
 ScrollReveal().reveal('.contact', { delay: 300 });
+ScrollReveal().reveal('.timeline__item', { interval: 200 });

@@ -426,6 +426,16 @@ img {
     backface-visibility: hidden; }
     .portfolio__link:hover {
       letter-spacing: 0.5px; }
+      .portfolio__company, .portfolio__date {
+        color: var(--color-dark);
+        font-size: 1.6rem;
+      }
+      .portfolio__info p {
+        color: var(--color-text);
+        font-size: 1.4rem;
+        line-height: 1.6;
+        margin-top: 1rem;
+      }
 
 .about {
   display: flex;
@@ -591,3 +601,54 @@ img {
     .portfolioSingle__content a {
       color: var(--color-accent);
       font-weight: var(--font-semi-bold); }
+
+      .timeline {
+        position: relative;
+        padding: 2rem 0;
+        margin-top: 2rem;
+      }
+      
+      .timeline__item {
+        padding: 2rem;
+        background: var(--color-lighter);
+        border-left: 3px solid var(--color-main);
+        margin-bottom: 2rem;
+        position: relative;
+      }
+      
+      .timeline__item::before {
+        content: '';
+        position: absolute;
+        left: -1.5rem;
+        top: 20px;
+        height: 20px;
+        width: 20px;
+        background-color: var(--color-main);
+        border-radius: 50%;
+      }
+      
+      .timeline__title {
+        font-size: 2rem;
+        font-weight: var(--font-bold);
+        color: var(--color-black);
+      }
+      
+      .timeline__company {
+        font-size: 1.6rem;
+        font-weight: var(--font-medium);
+        color: var(--color-dark);
+      }
+      
+      .timeline__date {
+        font-size: 1.4rem;
+        font-weight: var(--font-regular);
+        color: var(--color-dark);
+        margin-bottom: 1rem;
+      }
+      
+      .timeline__content p {
+        font-size: 1.4rem;
+        line-height: 1.6;
+        color: var(--color-text);
+      }
+      
