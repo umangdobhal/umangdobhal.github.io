@@ -662,7 +662,7 @@ img {
       
       .work-experience {
         display: flex;
-        gap: 4rem;
+        gap: 6rem;
         flex-wrap: wrap;
       }
       
@@ -671,7 +671,8 @@ img {
         justify-content: space-between;
         align-items: center;
         flex-basis: auto;
-        border-radius: 0.7rem;
+        border-radius: 1rem;
+        column-gap: 4rem;
       }
       
       .work-experience__box--mirror {
@@ -679,7 +680,7 @@ img {
       }
       
       .work-experience__img {
-        width: auto;
+        width: 40%;
         align-items: center;
         background-color: var(--color-accent);
       }
