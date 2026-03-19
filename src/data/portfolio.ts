@@ -6,7 +6,7 @@ export const portfolioData = {
   linkedin: "https://www.linkedin.com/in/umangdobhal/",
   github: "https://github.com/umangdobhal",
   tagline: "Building intelligent systems using data, machine learning, and real-world sensor insights.",
-  about: "Master’s student in Human Intelligence Systems at Kyushu Institute of Technology, specializing in synthetic data generation, time-series machine learning, and human activity recognition. My work focuses on building robust AI systems for real-world sensor data, with applications in healthcare and wearable computing. I have published research at ACM UbiComp (HASCA 2024 & 2025) and UCAmI 2025, and have hands-on experience developing end-to-end ML pipelines—from data preprocessing and modeling to evaluation—on complex, noisy datasets.",
+  about: "Master’s student in Human Intelligence Systems at Kyushu Institute of Technology, specializing in synthetic data generation, time-series machine learning, and human activity recognition. My work focuses on building robust AI systems for real-world sensor data, with applications in healthcare and wearable computing. I have published research at ACM UbiComp (HASCA 2024 & 2025) and UCAmI 2025, and have hands-on experience developing end-to-end ML pipelines from data preprocessing and modeling to evaluation—on complex, noisy datasets.",
   
   experience: [
     {
