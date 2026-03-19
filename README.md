@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Umang Dobhal — Portfolio
 
-# Run and deploy your AI Studio app
+Personal portfolio website showcasing my work in Data Science, AI, and Human Activity Recognition.
 
-This contains everything you need to run your app locally.
+## Live
+https://umangdobhal.github.io
 
-View your app in AI Studio: https://ai.studio/apps/e4c69ef4-9b5b-4770-b16e-2b0b46cdc44d
+## Tech Stack
+- React (Vite)
+- TypeScript
+- Tailwind CSS
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+```bash
+npm install
+npm run dev
+``` 
+## Deploy
+``` bash 
+npm run deploy
+```
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Contact
+- Email: dobhalumang@gmail.com
+- LinkedIn: https://www.linkedin.com/in/umangdobhal/
