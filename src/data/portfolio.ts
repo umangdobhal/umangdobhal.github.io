@@ -65,7 +65,7 @@ export const portfolioData = {
       fullDesc: "Developed an interactive analytics dashboard using Power BI by integrating multi-source data across 48 matches of the Cricket World Cup 2023. Designed dynamic visualizations and filters to analyze player and team performance, enabling data-driven selection of an optimal World XI team.",
       tech: ["Power BI", "Data Integration", "Data Visualization"],
       results: "Constructed an optimal World XI team based on 48 matches data.",
-      link: "https://github.com/umangdobhal/cricket-analytics"
+      link: "https://github.com/umangdobhal/DataScience/tree/main/Cricket%20World%20Cup%202023"
     },
     {
       title: "Bird Species Classification",
@@ -73,7 +73,7 @@ export const portfolioData = {
       fullDesc: "Built a machine learning pipeline for bird species classification using morphological and demographic features. Compared multiple models and optimized a Random Forest classifier achieving 96.55% accuracy, outperforming Decision Tree and Gradient Boosting baselines.",
       tech: ["Scikit-learn", "Random Forest", "Python"],
       results: "96.55% classification accuracy.",
-      link: "https://github.com/umangdobhal/bird-classification"
+      link: "https://github.com/umangdobhal/DataScience/tree/main/Bird%20Species%20Classification"
     }
   ],
   
