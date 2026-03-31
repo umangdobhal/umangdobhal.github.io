@@ -57,7 +57,7 @@ export const portfolioData = {
       fullDesc: "Designed and implemented an end-to-end IoT-based water monitoring system integrating pH and TDS sensors with real-time data acquisition, calibration, and noise normalization. Developed a reconstructive anomaly detection model using Reservoir Computing, enabling early detection of contamination events and automated response mechanisms including pump-based drainage and remote alerts.",
       tech: ["Jetson Nano", "Python", "Reservoir Computing", "IoT"],
       results: "Achieved 96.33% F1-score in anomaly detection.",
-      link: "Not Available (Confidential Project)"
+      link: "https://github.com/faizahmp/water-quality-detection"
     },
     {
       title: "Cricket World Cup 2023 Analytics Dashboard",
