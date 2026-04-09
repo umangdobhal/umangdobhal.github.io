@@ -103,7 +103,7 @@ export const portfolioData = {
       abstract: "Developed a post-processing strategy using TabDDPM for synthetic time-series generation, achieving 66% accuracy and 61.31 Mahalanobis Distance on the UCI Gesture Phase Segmentation dataset.",
       contribution: "Outperformed SMOTE and Random Sampling baselines with improved sample diversity and distributional quality.",
       highlight: "Filtering Strategy for Synthetic Time-Series Data",
-      link: "DOI not issued yet"
+      link: "https://link.springer.com/chapter/10.1007/978-3-032-16995-2_21"
     },
     {
       title: "Two-Stage Reservoir Computing for Sensor-Specific Activity Recognition Using WEAR Inertial Dataset",
