@@ -94,7 +94,7 @@ export const portfolioData = {
       abstract: "Proposed a temporal extension of TabDDPM, introducing sequence awareness through lightweight temporal adapters and context-aware embedding modules.",
       contribution: "Enhanced temporal realism, diversity, and coherence in synthetic sequences compared to baseline techniques.",
       highlight: "Diffusion-based Time-Series Data Generation",
-      link: "DOI not issued yet"
+      link: "https://www.jstage.jst.go.jp/article/ijabc/2026/1/2026_139/_article/-char/ja"
     },
     {
       title: "Sample Selection Strategy for Synthetic Data Generation on Gesture Phase Recognition",
