@@ -53,27 +53,19 @@ export const portfolioData = {
   projects: [
     {
       title: "Smart Water Contamination Detection System",
-      shortDesc: "End-to-end water monitoring system with automated anomaly detection.",
-      fullDesc: "Designed and implemented an end-to-end IoT-based water monitoring system integrating pH and TDS sensors with real-time data acquisition, calibration, and noise normalization. Developed a reconstructive anomaly detection model using Reservoir Computing, enabling early detection of contamination events and automated response mechanisms including pump-based drainage and remote alerts.",
-      tech: ["Jetson Nano", "Python", "Reservoir Computing", "IoT"],
+      shortDesc: "End-to-end IoT water monitoring system with automated anomaly detection on edge hardware.",
+      fullDesc: "Designed and implemented an end-to-end IoT-based water monitoring system on a Jetson Nano, integrating pH and TDS sensors with ADC calibration, noise normalization, and real-time multi-sensor synchronization. Developed a reconstructive anomaly detection model using Reservoir Computing, enabling early detection of contamination events with automated pump-based drainage and remote alert notifications.",
+      tech: ["Jetson Nano", "Python", "Reservoir Computing", "IoT", "Edge AI"],
       results: "Achieved 96.33% F1-score in anomaly detection.",
       link: "https://github.com/umangdobhal/water-quality-detection"
     },
     {
-      title: "Cricket World Cup 2023 Analytics Dashboard",
-      shortDesc: "Interactive Power BI dashboard for tournament insights and optimal team construction.",
-      fullDesc: "Developed an interactive analytics dashboard using Power BI by integrating multi-source data across 48 matches of the Cricket World Cup 2023. Designed dynamic visualizations and filters to analyze player and team performance, enabling data-driven selection of an optimal World XI team.",
-      tech: ["Power BI", "Data Integration", "Data Visualization"],
-      results: "Constructed an optimal World XI team based on 48 matches data.",
-      link: "https://github.com/umangdobhal/DataScience/tree/main/Cricket%20World%20Cup%202023"
-    },
-    {
-      title: "Bird Species Classification",
-      shortDesc: "ML pipeline for classifying bird species based on morphological features.",
-      fullDesc: "Built a machine learning pipeline for bird species classification using morphological and demographic features. Compared multiple models and optimized a Random Forest classifier achieving 96.55% accuracy, outperforming Decision Tree and Gradient Boosting baselines.",
-      tech: ["Scikit-learn", "Random Forest", "Python"],
-      results: "96.55% classification accuracy.",
-      link: "https://github.com/umangdobhal/DataScience/tree/main/Bird%20Species%20Classification"
+      title: "Kyushu River Discharge Forecasting with Spatiotemporal GNN",
+      shortDesc: "7-day river discharge forecasting across 10 gauging stations using graph neural networks.",
+      fullDesc: "Built a Spatiotemporal GNN combining a GRU temporal encoder with a GCN layer to forecast daily river discharge 7 days ahead across 10 gauging stations in Kyushu. Designed a controlled ablation study isolating the contribution of river network topology, finding that at daily resolution the GRU temporal encoder subsumes graph message-passing — a result with direct implications for model design in hydrology applications.",
+      tech: ["PyTorch", "Graph Neural Networks", "GRU", "GCN", "Streamlit"],
+      results: "Achieved 25% lower MAE than persistence and climatology baselines.",
+      link: "https://github.com/umangdobhal/DataScience/tree/main/Water"
     }
   ],
   
