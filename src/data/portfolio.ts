@@ -57,7 +57,7 @@ export const portfolioData = {
       fullDesc: "Designed and implemented an end-to-end IoT-based water monitoring system on a Jetson Nano, integrating pH and TDS sensors with ADC calibration, noise normalization, and real-time multi-sensor synchronization. Developed a reconstructive anomaly detection model using Reservoir Computing, enabling early detection of contamination events with automated pump-based drainage and remote alert notifications.",
       tech: ["Jetson Nano", "Python", "Reservoir Computing", "IoT", "Edge AI"],
       results: "Achieved 96.33% F1-score in anomaly detection.",
-      link: "https://github.com/umangdobhal/water-quality-detection"
+      link: "xhttps://github.com/umangdobhal/smart-water-detection"
     },
     {
       title: "Kyushu River Discharge Forecasting with Spatiotemporal GNN",
@@ -65,7 +65,7 @@ export const portfolioData = {
       fullDesc: "Built a Spatiotemporal GNN combining a GRU temporal encoder with a GCN layer to forecast daily river discharge 7 days ahead across 10 gauging stations in Kyushu. Designed a controlled ablation study isolating the contribution of river network topology, finding that at daily resolution the GRU temporal encoder subsumes graph message-passing — a result with direct implications for model design in hydrology applications.",
       tech: ["PyTorch", "Graph Neural Networks", "GRU", "GCN", "Streamlit"],
       results: "Achieved 25% lower MAE than persistence and climatology baselines.",
-      link: "https://github.com/umangdobhal/DataScience/tree/main/Water"
+      link: "https://github.com/umangdobhal/kyushu-river-stgnn"
     }
   ],
   
